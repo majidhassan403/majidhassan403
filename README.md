@@ -25,8 +25,9 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majidhassan403&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophies.vercel.app/?username=majidhassan403&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
 </p>
+
 
 ---
 
