@@ -45,11 +45,15 @@
   <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=majidhassan403&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
-
+---
 ### 📈 Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=majidhassan403&theme=react-dark&hide_border=false" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github.com/majidhassan403/majidhassan403/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
