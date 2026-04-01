@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Majid%20Hassan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=62&descSize=20" />
+</p>
+---
+
+<p align="center">
+  <a href="https://github.com/majidhassan403">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA239&center=true&vCenter=true&width=435&lines=Hi+I'm+Majid+Hassan;Full+Stack+MERN+Developer;Creative+UI%2FUX+Designer;Problem+Solver+%26+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 # 💫 About Me:
 💻 Frontend Developer | JavaScript Learner<br>🚀 Skilled in HTML, CSS & currently learning JavaScript<br>🛠️ Building real-world projects like currency converter, healthcare web app<br>📈 Continuously improving problem-solving and development skills<br>🎯 Aspiring Full Stack Developer<br>🌐 Open to learning, collaboration & opportunities
 
